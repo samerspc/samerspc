@@ -1,6 +1,12 @@
-# Якупов Самат
+# Якупов Самат | Frontend Dev
 
 [+7 (969) 533-19-93](tel:+79695331993) · [sa.iakupov@innopolis.university](mailto:sa.iakupov@innopolis.university) · [github.com/samerspc](https://github.com/samerspc) · [t.me/samerspc](https://t.me/samerspc)
+
+<p align="left">
+  <a href="./resume.pdf" download="Iakupov_Samat_Frontend_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume.pdf-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download PDF Resume" />
+  </a>
+</p>
 
 
 
