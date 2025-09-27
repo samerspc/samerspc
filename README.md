@@ -1,17 +1,17 @@
-# Якупов Самат | Frontend Dev
+# Iakupov Samat | Frontend Dev
 
 [sa.iakupov@innopolis.university](mailto:sa.iakupov@innopolis.university) · [t.me/samerspc](https://t.me/samerspc)
 
 <p align="left">
-  <a href="./Samat_Iakupov_Frontend.pdf" download="Iakupov_Samat_Frontend_Resume.pdf">
+  <a href="https://drive.google.com/file/d/1qWiFS67z4K3rTZjZkmFASqS_qPo4s-ZY/view">
     <img src="https://img.shields.io/badge/Resume.pdf-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download PDF Resume" />
   </a>
 </p>
 
-## Технологии
+## Tech:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,tailwind,jest,vite,webpack,docker,nodejs,graphql,figma&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,npm,redux,html,css,jest,cypress,express,webpack,docker,git&theme=dark" alt="Tech Stack" />
 </p>
 
 **ЯП и фреймворки:** JavaScript (ES6+), TypeScript, React, Next
