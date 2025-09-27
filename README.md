@@ -14,15 +14,15 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,npm,redux,html,css,jest,cypress,express,webpack,docker,git&theme=dark" alt="Tech Stack" />
 </p>
 
-**ЯП и фреймворки:** JavaScript (ES6+), TypeScript, React, Next
-**Состояние/данные:** Redux Toolkit, React Query, RTK Query  
-**Вёрстка/стили:** HTML5, CSS3, SCSS/SASS, CSS‑Modules, tailwind
-**Тесты:** Jest, Cypress  
-**Сборка/инфра:** Webpack/Vite, CI/CD (GitHub Actions), Docker (баз.), Node.js (баз.), Yandex Cloud Object Storage (S3 API)
-**API и инструменты:** REST, GraphQL, WebSockets, Figma, ESLint, Prettier, Storybook, Husky
+* JavaScript (ES6+), TypeScript, Node.js, React, Next
+* Redux, MobX, React Query, RTK Query  
+* HTML/CSS, SCSS/SASS, CSS‑Modules, tailwind
+* Jest, Cypress  
+*  Webpack/Vite, CI/CD, Docker, Node.js, Yandex Cloud Object Storage (S3 API)
+* REST, GraphQL, WebSockets, Figma
 
-## Образование
-**Университет Иннополис** — Бакалавр, «Инженерия информационных систем», 3 курс (окончание 2027)  
-**Курсы**: студент курса «Фронтенд‑разработчик», Яндекс Практикум
-
-🎾  **Open to cooperation!**
+## Edu:
+* **Innopolis University** — Information Systems Engineering, 2023-2027
+* **Yandex Practicum** - Frontend-developer 
+<br/><br/>
+**Open to cooperation!**
