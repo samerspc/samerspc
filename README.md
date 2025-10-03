@@ -3,7 +3,7 @@
 [sa.iakupov@innopolis.university](mailto:sa.iakupov@innopolis.university) · [t.me/samerspc](https://t.me/samerspc)
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1qWiFS67z4K3rTZjZkmFASqS_qPo4s-ZY/view">
+  <a href="https://drive.google.com/drive/folders/1lGTCz7tD0Wvipaa30C5Eh_HuSwsmjPsD?usp=sharing">
     <img src="https://img.shields.io/badge/Resume.pdf-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download PDF Resume" />
   </a>
 </p>
